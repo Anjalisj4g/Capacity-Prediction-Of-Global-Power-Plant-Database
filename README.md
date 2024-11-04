@@ -62,7 +62,7 @@ Here is a description of each column in the global powerplant database:
 * **estimated_generation_gwh** : The estimated total energy generation for the power plant, measured in gigawatt-hours (GWh), where actual generation data is unavailable.
 
 ## Exploratory Data Analysis
-* The dataset contains of 29910 rows and 24 columns.
+* The dataset contains 29910 rows and 24 columns.
 * Dataset contain two types of datatypes namely object and float64.
 * The dataset contain many null values.
 * Number of numerical columns : 11
