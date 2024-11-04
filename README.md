@@ -1,5 +1,8 @@
 # Capacity Prediction Of Global Power Plant Database
 
+![dataset-cover](https://github.com/user-attachments/assets/3ee880a6-decd-4c9e-a76b-2c7c4f42eb1c)
+
+
 **Source** : [Click Here](https://data.world/login?next=%2Farmandor%2Fglobal-power-plant-database%2Fworkspace%2Ffile%3Ffilename%3Dglobal_power_plant_database.csv)
 
 ## Table of Contents
