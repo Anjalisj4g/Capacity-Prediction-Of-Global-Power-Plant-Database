@@ -63,7 +63,7 @@ Here is a description of each column in the global powerplant database:
 * Dataset contain two types of datatypes namely object and float64.
 * The dataset contain many null values.
 * Number of numerical columns : 11
-* 
+  
   They are 'capacity', 'latitude', 'longitude', 'commissioning_year', 'year_of_capacity_data', 'generation_gwh_2013', 'generation_gwh_2014', 'generation_gwh_2015', 'generation_gwh_2016', 'generation_gwh_2017', 'estimated_generation_gwh'.
   
   Number of categorical columns : 13
@@ -83,8 +83,7 @@ Here is a description of each column in the global powerplant database:
   Categorical columns are encoded using **Label Encoding**.
 
 ## Feature Selection
-* **Random Forest Regressor** is used to select important features.
-  Important features gathered are **'gppd_idnr', 'longitude', 'fuel_type', 'wepp_id', 'estimated_generation_gwh'.**
+* **Random Forest Regressor** is used to select important features. Important features gathered are **'gppd_idnr', 'longitude', 'fuel_type', 'wepp_id', 'estimated_generation_gwh'.**
 * Features are plotted in a bar chart based on its importance.
 
 ## Feature Scaling
